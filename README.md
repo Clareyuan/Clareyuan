@@ -2,12 +2,15 @@
   <img src="https://raw.githubusercontent.com/Clareyuan/Clareyuan/main/assets/jianlai-header.svg" alt="见微知著 · 格物致知" width="100%" />
 </div>
 
-<div align="center">
-  
-  <h2>重剑无锋，大巧不工</h2>
-  
-  不执一人之名，不借一人之势，只取天地气象。
 
+
+<div align="center">
+  </blockquote>
+  
+  <p><i>  <br>
+    遇事不决，可问春风。春风不语，即随本心。<i></p>
+  </blockquote>
+ 
 </div>
 
 ---
