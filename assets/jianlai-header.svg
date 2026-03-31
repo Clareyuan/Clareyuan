@@ -50,10 +50,7 @@
   <text x="60" y="112" fill="#FDF2F8" font-size="48" font-weight="700"
         font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
     浩然天下 · 代码问剑
-  </text>
-  <!-- 副标题 -->
-  <text x="60" y="160" fill="#E5E7EB" font-size="22"
-        font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
+  
   </text>
   <!-- 技术栈/英文点缀 -->
   <text x="60" y="204" fill="#FCA5A5" font-size="18"
