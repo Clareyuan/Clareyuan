@@ -49,13 +49,13 @@
   <!-- 主标题 -->
   <text x="60" y="112" fill="#FDF2F8" font-size="48" font-weight="700"
         font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
-    浩然天下 · 代码问剑
+    见微知著 · 格物致知
   
   </text>
   <!-- 技术栈/英文点缀 -->
   <text x="60" y="204" fill="#FCA5A5" font-size="18"
         font-family="Consolas, Monaco, Menlo, monospace">
-    Front-End · Back-End · Open Source · Writing
+    UI · API · Craft · Logic · Open Source · Writing
   </text>
   <!-- 哲理金句 (已更新为：凡有所相，皆是虚妄) -->
   <text x="60" y="258" fill="#CBD5E1" font-size="20" letter-spacing="2"
