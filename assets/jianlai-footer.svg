@@ -1,69 +1,16 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="110" viewBox="0 0 1200 110" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="0.55" stop-color="#111827"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
       <stop offset="1" stop-color="#3F0D12"/>
     </linearGradient>
-    <linearGradient id="line" x1="860" y1="240" x2="1016" y2="42" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FB7185"/>
-      <stop offset="1" stop-color="#FDE68A"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 160) rotate(90) scale(160 300)">
-      <stop stop-color="#E11D48" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#E11D48" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#FB7185" flood-opacity="0.35"/>
-    </filter>
   </defs>
-  <!-- 背景与光晕 -->
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
-  <!-- 阵法/星轨 装饰 -->
-  <g opacity="0.16">
-    <circle cx="980" cy="84" r="70" stroke="#FCA5A5"/>
-    <circle cx="980" cy="84" r="110" stroke="#FCA5A5"/>
-    <circle cx="980" cy="84" r="150" stroke="#FCA5A5"/>
-  </g>
-  <!-- 剑气/流光 装饰 -->
-  <g opacity="0.22">
-    <path d="M0 250C180 210 260 300 430 260C580 225 670 120 840 130C1000 140 1070 235 1200 210" stroke="#93C5FD" stroke-width="2"/>
-    <path d="M0 280C150 240 260 320 430 290C610 258 690 160 860 170C1015 179 1080 260 1200 245" stroke="#FCA5A5" stroke-width="2"/>
-  </g>
-  <!-- 飞剑/核心元素 -->
-  <g filter="url(#shadow)">
-    <path d="M860 240L990 70" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
-    <path d="M998 60L1016 42" stroke="#FDE68A" stroke-width="5" stroke-linecap="round"/>
-    <path d="M846 254L876 244" stroke="#FB7185" stroke-width="6" stroke-linecap="round"/>
-    <path d="M850 262L884 250" stroke="#FB7185" stroke-width="4" stroke-linecap="round"/>
-  </g>
-  <!-- 粒子点缀 -->
-  <g fill="#F8FAFC" opacity="0.75">
-    <circle cx="820" cy="60" r="2"/>
-    <circle cx="760" cy="110" r="1.8"/>
-    <circle cx="1120" cy="96" r="2"/>
-    <circle cx="1090" cy="210" r="1.6"/>
-    <circle cx="910" cy="266" r="1.8"/>
-  </g>
-  <!-- 主标题 -->
-  <text x="60" y="112" fill="#FDF2F8" font-size="48" font-weight="700"
+  <rect width="1200" height="110" rx="20" fill="url(#bg)"/>
+  <path d="M90 55H420" stroke="#7F1D1D" stroke-width="2"/>
+  <path d="M780 55H1110" stroke="#7F1D1D" stroke-width="2"/>
+  <circle cx="600" cy="55" r="4" fill="#FB7185"/>
+  <text x="600" y="64" text-anchor="middle" fill="#FDF2F8" font-size="28" font-weight="700"
         font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
-    浩然天下 · 代码问剑
-  </text>
-  <!-- 副标题 -->
-  <text x="60" y="160" fill="#E5E7EB" font-size="22"
-        font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
-    在开源天地中养浩然气，于键盘方寸间磨砺剑锋
-  </text>
-  <!-- 技术栈/英文点缀 -->
-  <text x="60" y="204" fill="#FCA5A5" font-size="18"
-        font-family="Consolas, Monaco, Menlo, monospace">
-    Front-End · Back-End · Open Source · Writing
-  </text>
-  <!-- 哲理金句 (已更新为：凡有所相，皆是虚妄) -->
-  <text x="60" y="258" fill="#CBD5E1" font-size="20" letter-spacing="2"
-        font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
-    凡有所相，皆是虚妄
+    行有不得，反求诸己。
   </text>
 </svg>
