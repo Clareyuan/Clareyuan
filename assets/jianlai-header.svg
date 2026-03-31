@@ -54,7 +54,6 @@
   <!-- 副标题 -->
   <text x="60" y="160" fill="#E5E7EB" font-size="22"
         font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
-    在开源天地中养浩然气，于键盘方寸间磨砺剑锋
   </text>
   <!-- 技术栈/英文点缀 -->
   <text x="60" y="204" fill="#FCA5A5" font-size="18"
