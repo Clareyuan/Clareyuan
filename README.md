@@ -63,7 +63,6 @@
   <code>Prompt Engineering</code>
   <code>Markdown</code>
   <code>Python</code>
-  <code>JavaScript</code>
   <code>TypeScript</code>
   <code>Git</code>
   <code>Docker</code>
